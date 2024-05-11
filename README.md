@@ -5,7 +5,7 @@
 npm install && npm start
 ```
 
-## Excersize Instructions
+## Exercise Instructions
 
 We’ve built an app that lets people view and vote on cheesy jokes. To generate jokes, it uses the [ICanHazDadJoke API](https://icanhazdadjoke.com/api).
 
